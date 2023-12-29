@@ -18,6 +18,6 @@ Algorithm has to find some structure or some pattern or something interesting in
 * Dimensionality Reduction: Compress data set without losing as much as infomration as possible.
 
 # Linear Regression Model
-It is a type of supervised learning alogorithm. It means just fitting a straight line to your data.
-  
+It is a type of supervised learning alogorithm. It means just fitting a straight line to your data. Linear function is just a fancy way of saying a line.
+
 
